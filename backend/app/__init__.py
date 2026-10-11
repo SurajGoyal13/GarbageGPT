@@ -1,0 +1,1 @@
+"""GarbageGPT Backend Application Package."""
